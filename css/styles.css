@@ -1,0 +1,15 @@
+
+.taco {width: 100px; height: 100px; animation-name: taco;}.croco {width: 100px; height: 100px; animation-name: croco;}.animloop {animation-duration: 0.5s; animation-iteration-count: infinite;}.speed {animation-duration: 0.2s; animation-iteration-count: infinite;}@keyframes croco { 
+  0% {-webkit-transform: rotate(-45deg);} 
+  49% {-webkit-transform: rotate(-45deg);} 
+  50% {-webkit-transform: rotate(45deg);} 
+  100% {-webkit-transform: rotate(45deg);} 
+}@keyframes taco { 
+  0% {-webkit-transform: rotate(45deg);} 
+  49% {-webkit-transform: rotate(45deg);} 
+  50% {-webkit-transform: rotate(-45deg);} 
+  100% {-webkit-transform: rotate(-45deg);} 
+}
+.body-initial {background-color: rgba(0,0,0,1); position: static;}.silex-id-1474394621033-3 {position: static; margin-top: -1px;}.silex-id-1474394621032-2 {background-color: transparent; min-height: 401px; position: relative; margin-left: auto; margin-right: auto;}.silex-id-1478366450713-3 {background-color: transparent; position: static; margin-top: -1px;}.silex-id-1478366450713-2 {background-color: transparent; min-height: 100px; position: relative; margin-left: auto; margin-right: auto;}.silex-id-1442914737143-3 {width: 241px; top: 26px; left: 494px; min-height: 51px; position: absolute;}.silex-id-1678171117186-0 {width: 240px; height: 156px; position: absolute; top: 133.84375px; left: 349.125px;}.silex-id-1678171279192-1 {width: 240px; height: 240px; position: absolute; top: 89px; left: 632px;}.silex-id-1678171937426-0 {width: 100px; min-height: 51px; position: absolute; top: 22.328125px; left: 582.3912353515625px;}.silex-id-1678171982455-1 {position: static; margin-top: -1px;}.silex-id-1678171982455-2 {background-color: transparent; min-height: 401px; position: relative; margin-left: auto; margin-right: auto;}.silex-id-1678171982455-3 {width: 240px; height: 156px; position: absolute; top: 133.84375px; left: 349.125px;}.silex-id-1678171982455-4 {width: 240px; height: 240px; position: absolute; top: 89px; left: 632px;}.silex-id-1678172176237-11 {position: static;}.silex-id-1678172176238-12 {min-height: 100px; background-color: transparent; position: relative; margin-left: auto; margin-right: auto;}@media only screen and (max-width: 480px) {.silex-id-1678171279192-1 {height: 240px; width: 240px;}.silex-id-1678171937426-0 {min-height: 51px; top: 399px; left: 174px; width: 100px;}.silex-id-1678171982455-4 {height: 240px; width: 240px;}}
+.website-width {width: 1200px;}@media (min-width: 481px) {.silex-editor {min-width: 1400px;}}
+.text-element > .silex-element-content {font-family: 'Roboto', sans-serif; color: #ffffff;}a {color: #00d9ff;}[data-silex-href] {color: #00d9ff;}body.silex-runtime {opacity: 1;}
